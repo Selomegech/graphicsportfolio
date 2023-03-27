@@ -820,6 +820,7 @@ h3.my-profession {
     }
     .home .container .row .home-img {
         margin-bottom: 30px;
+        display: none;
     }
 }
 a {
